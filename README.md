@@ -15,6 +15,3 @@ Cada uno de ellos está construido con **HTML y CSS puro**.
 3. **Documentación técnica**  
 
 4. **Landing page de producto**  
-
----
-
